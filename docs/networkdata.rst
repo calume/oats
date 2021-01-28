@@ -42,7 +42,7 @@ Irish testcase
 		:align: center
 
 This is a two-area (Republic of Ireland and Northern Ireland) model assembled to solve a unit commitment problem in OATS.
-The main source of data is a report from Baringa Partners [3]. The transmission capacitsies were obtained from [4].
+The main source of data is a report from Baringa Partners [3]. The transmission capacities were obtained from [4].
 
 [3] Baringa Partners LLP 2016, “SEM PLEXOS model validation,” May 2016. [Online]. Available: https://www.semcommittee.com/news-
 centre/baringa-sem-plexos-forecast-model-2016-17
